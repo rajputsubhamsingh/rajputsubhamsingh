@@ -60,8 +60,8 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2020-2024 >**\
+ 📖**Bachelor's of technology-< CSE >**
  
  - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
